@@ -9,14 +9,14 @@ $ ruby -v
 h2. Fontes
 
 Leitura sobre Benchmarking
-"http://pt.wikipedia.org/wiki/Benchmarking":Benchmarking
+"Benchmarking":http://pt.wikipedia.org/wiki/Benchmarking
 
-"http://ruby-doc.org/core/classes/Benchmark.html#M007401":ruby-doc - benchmark
+"ruby-doc - benchmark":http://ruby-doc.org/core/classes/Benchmark.html#M007401
 Método @benchmark@
 
 h2. Licença
 
 h3. Creative Commons License
 
-"href="http://creativecommons.org/licenses/GPL/2.0/":This software is licensed under the "href="http://creativecommons.org/licenses/GPL/2.0/":CC-GNU-GPL version 2.0 or later.
+"This software is licensed under the":href="http://creativecommons.org/licenses/GPL/2.0/ "CC-GNU-GPL":href="http://creativecommons.org/licenses/GPL/2.0/ version 2.0 or later.
 !http://creativecommons.org/images/public/cc-GPL-a.png!
