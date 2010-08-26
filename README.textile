@@ -2,8 +2,14 @@ h1. Teste de Perfomance
 
 h2. Leia-me
 
+Ambiente
+$ ruby -v
+@ruby 1.9.2p0 (2010-08-18 revision 29036) [i686-linux]@
 
 h2. Fontes
+
+Leitura sobre Benchmarking
+"http://pt.wikipedia.org/wiki/Benchmarking":Benchmarking
 
 "http://ruby-doc.org/core/classes/Benchmark.html#M007401":ruby-doc - benchmark
 Método @benchmark@
