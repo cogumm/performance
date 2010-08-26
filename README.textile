@@ -6,6 +6,14 @@ Ambiente
 $ ruby -v
 @ruby 1.9.2p0 (2010-08-18 revision 29036) [i686-linux]@
 
+h2. Resultado dos testes
+
+$ ruby 1.8
+!http://cogumm.net/blog/arquivos/ruby1-8.png!
+
+$ ruby 1.9
+!http://cogumm.net/blog/arquivos/ruby1-9.png!
+
 h2. Fontes
 
 Leitura sobre Benchmarking
