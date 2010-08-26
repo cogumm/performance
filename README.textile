@@ -6,4 +6,10 @@ h2. Leia-me
 h2. Fontes
 
 "http://ruby-doc.org/core/classes/Benchmark.html#M007401":ruby-doc - benchmark
-@benchmark@
+Método @benchmark@
+
+h2. Licença
+
+h3. Creative Commons License
+"href="http://creativecommons.org/licenses/GPL/2.0/":This software is licensed under the "href="http://creativecommons.org/licenses/GPL/2.0/":CC-GNU-GPL version 2.0 or later.
+!http://creativecommons.org/images/public/cc-GPL-a.png!
