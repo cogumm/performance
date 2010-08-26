@@ -12,5 +12,5 @@ h2. Licença
 
 h3. Creative Commons License
 
-"This software is licensed under the":href="http://creativecommons.org/licenses/GPL/2.0/ "CC-GNU-GPL":href="http://creativecommons.org/licenses/GPL/2.0/ version 2.0 or later.
+"href="http://creativecommons.org/licenses/GPL/2.0/":This software is licensed under the "href="http://creativecommons.org/licenses/GPL/2.0/":CC-GNU-GPL version 2.0 or later.
 !http://creativecommons.org/images/public/cc-GPL-a.png!
